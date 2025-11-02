@@ -1,0 +1,3 @@
+Guild.xyz verification
+Timestamp: 2025-11-02T08:18:27.041Z
+Commit: Fix broken links in documentation
